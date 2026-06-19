@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+google-generativeai
+reportlab
+python-dotenv
+pydantic
